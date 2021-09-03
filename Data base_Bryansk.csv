@@ -1,0 +1,241 @@
+ID,Location,Date of observation,Latitude ,Longitude,Fire type,"Size, ha","A_s, kBq m-2",Temp,Precipitation,W_velocity,W_dir,Observation point,"A_v, Bq m-3 * 10-5"
+1,Krasnogorski dist,3/15/2016,52.976300 ,31.624099 ,srf,null,555,-0.1,0,1.8,N,Gomel,22
+2,Krasnogorski dist,3/27/2016,52.776185 ,31.627578 ,srf,598,555,2.1,0,2.1,N,Gomel,27
+3,Gordeevski dist,3/27/2016,53.027300 ,31.976699 ,srf,null,185,2.1,0,2.1,N,Gomel,27
+4,Mihailovskay str,3/27/2016,52.910700 ,31.997800 ,crwn,null,185,2.1,0,2.1,N,Gomel,27
+5,Klincovski dist,3/27/2016,52.702100 ,32.182600 ,crwn,null,555,2.1,0,2.1,N,Gomel,27
+6,Klimovski dist,3/27/2016,52.394800 ,32.460599 ,crwn,null,555,2.1,0,2.1,N,Gomel,27
+7,Krasnogorski dist,3/28/2016,52.816873 ,31.611099 ,srf,386,555,3.5,0,2.6,E,Gomel,23
+8,Novosibkov,3/28/2016,52.506400 ,31.990299 ,crwn,null,1480,3.5,0,2.6,E,Gomel,23
+9,Novosibkovski dist,4/3/2016,52.688870 ,31.552047 ,srf,461,1480,4.9,0,4.8,NW,Gomel,15
+10,Gordeevski dist,4/3/2016,52.956900 ,32.082199 ,crwn,null,185,4.9,0,4.8,NW,Gomel,15
+11,Novosibkovski dist,4/4/2016,52.668887 ,31.601486 ,crwn,454,1480,7.3,0,3.4,NW,Gomel,15
+12,Krasnogorski dist,4/5/2016,53.127800 ,31.458600 ,srf,null,555,5.6,0,1.1,N,Gomel,17
+13,Krasnogorski dist,4/5/2016,52.844699 ,31.633700 ,srf,null,555,5.6,0,1.1,N,Gomel,17
+14,Gordeevski dist,4/5/2016,52.870099 ,31.908599 ,srf,null,185,5.6,0,1.1,N,Gomel,17
+15,Gordeevski dist,4/5/2016,52.871999 ,31.930799 ,srf,null,185,5.6,0,1.1,N,Gomel,17
+16,Klincovski dist,4/5/2016,52.701399 ,32.187499 ,crwn,null,555,5.6,0,1.1,N,Gomel,17
+17,Krasnogorski dist,4/6/2016,53.183200 ,31.754199 ,crwn,null,555,9.1,0,1.1,S,Gomel,29
+18,Krasnogorski dist,4/6/2016,53.179599 ,31.743599 ,crwn,null,555,9.1,0,1.1,S,Gomel,29
+19,Krasnogorski dist,4/6/2016,53.165399 ,31.746900 ,crwn,null,555,9.1,0,1.1,S,Gomel,29
+20,Krasnogorski dist,4/6/2016,52.896200 ,31.580300 ,crwn,null,555,9.1,0,1.1,S,Gomel,29
+21,Surajski dist,4/8/2016,53.088200 ,32.516600 ,crwn,null,555,9.9,0,1.4,SE,Gomel,27
+22,Unechski dist,4/8/2016,52.945199 ,32.796299 ,crwn,null,185,9.9,0,1.4,SE,Gomel,27
+23,Unechski dist,4/8/2016,52.942599 ,32.808000 ,srf,null,185,9.9,0,1.4,SE,Gomel,27
+24,Klimovski dist,4/8/2016,52.424100 ,32.356400 ,srf,null,555,9.9,0,1.4,SE,Gomel,27
+25,Klimovski dist,4/8/2016,52.424499 ,32.366300 ,crwn,null,555,9.9,0,1.4,SE,Gomel,27
+26,Pogarski dist,4/8/2016,52.397900 ,32.934900 ,srf,null,185,9.9,0,1.4,SE,Gomel,27
+27,Surajski dist,4/11/2016,53.099384 ,32.277832 ,srf,931,555,11.1,0,3,NE,Gomel,36
+28,Gordeevski dist,4/11/2016,52.975699 ,31.714499 ,crwn,null,185,11.1,0,3,NE,Gomel,36
+29,Krasnogorski dist,4/11/2016,52.973100 ,31.699199 ,crwn,null,555,11.1,0,3,NE,Gomel,36
+30,Surajski dist,4/12/2016,53.114223 ,32.269592 ,srf,381,555,10.3,0,1.8,NE,Gomel,45
+31,Starodubski dist,4/12/2016,52.583399 ,32.698899 ,srf,null,185,10.3,0,1.8,NE,Gomel,45
+32,Surajski dist,4/13/2016,53.045754 ,32.224273 ,crwn,507,555,13.2,0,2.3,SE,Gomel,48
+33,Krasnogorski dist,4/13/2016,53.142499 ,31.742400 ,srf,null,555,13.2,0,2.3,SE,Gomel,48
+34,Krasnogorski dist,4/13/2016,53.142200 ,31.731100 ,srf,null,555,13.2,0,2.3,SE,Gomel,48
+35,Gordeevski dist,4/13/2016,52.903500 ,31.943200 ,srf,null,185,13.2,0,2.3,SE,Gomel,48
+36,Unechski dist,4/13/2016,52.886999 ,32.680300 ,crwn,null,185,13.2,0,2.3,SE,Gomel,48
+37,Unechski dist,4/13/2016,52.883200 ,32.661699 ,crwn,null,185,13.2,0,2.3,SE,Gomel,48
+38,Starodubski dist,7/29/2016,52.689000 ,32.554499 ,crwn,null,185,24.1,0,1.1,W,Gomel,45
+39,Starodubski dist,7/29/2016,52.682100 ,32.559700 ,crwn,null,185,24.1,0,1.1,W,Gomel,45
+40,Starodubski dist,8/27/2016,52.648599 ,32.616800 ,srf,null,185,20.6,0,1.6,W,Gomel,24
+41,Uvelie,3/8/2017,52.769539 ,31.634445 ,crwn,386,1480,6.2,0,1.1,SE,Gomel,17
+42,Krasnogorski dist,3/9/2017,52.784492 ,31.641311 ,crwn,199.3,555,6,0,2.4,SE,Gomel,45
+43,Navlinski dist,3/10/2017,52.859595 ,34.672508 ,crwn,534,185,5.7,0,2.4,SE,Gomel,30
+44,Karacgevski dist,3/26/2017,53.089200 ,35.113800 ,srf,null,185,2.2,0,1.8,W,Gomel,19
+45,Logovatoe,3/29/2017,52.596600 ,32.562600 ,crwn,null,185,2.4,0,2.6,NW,Gomel,14
+46,Klimovski dist,3/29/2017,52.418500 ,32.298000 ,crwn,null,555,2.4,0,2.6,NW,Gomel,14
+47,Surajski dist,4/2/2017,53.153499 ,32.339799 ,crwn,null,555,9.6,2,2.3,SW,Gomel,15
+48,Chernookovo,4/2/2017,52.418500 ,32.418800 ,srf,null,555,9.6,2,2.3,SW,Gomel,15
+49,Klimovski dist,4/2/2017,52.375000 ,32.160699 ,crwn,null,555,9.6,2,2.3,SW,Gomel,15
+50,Radinsk,4/3/2017,52.634900 ,33.844700 ,crwn,null,185,11.9,0,2.6,NW,Gomel,24
+51,Navlinski dist,4/5/2017,52.826100 ,34.224099 ,crwn,null,185,7.6,0.6,1.9,S,Gomel,38
+52,Krasnogorski dist,4/9/2017,53.042100 ,32.684699 ,crwn,null,555,5.2,1.7,2.4,N,Gomel,15
+53,Klincovski dist,4/11/2017,52.708011 ,32.190628 ,crwn,777,555,10.5,1,3.7,SW,Gomel,14
+54,Trubchevski dist,4/11/2017,52.307429 ,33.545894 ,crwn,359,185,10.5,1,3.7,SW,Gomel,14
+55,Sevski dist,4/11/2017,51.900647 ,34.344978 ,srf,508,185,10.5,1,3.7,SW,Gomel,14
+56,Unechski dist,4/11/2017,52.773000 ,32.446799 ,crwn,null,185,10.5,1,3.7,SW,Gomel,14
+57,Klincovski dist,4/11/2017,52.767300 ,32.452099 ,crwn,null,185,10.5,1,3.7,SW,Gomel,14
+58,Novosibkoski dist,4/11/2017,52.566100 ,31.693600 ,crwn,null,1480,10.5,1,3.7,SW,Gomel,14
+59,Babachi,4/11/2017,53.846599 ,33.562799 ,crwn,null,185,10.5,1,3.7,SW,Gomel,14
+60,Klimovski dist,4/21/2017,52.487900 ,32.242599 ,crwn,null,555,4,0,1.4,SW,Gomel,29
+61,Unechski dist,4/30/2017,52.773600 ,32.464800 ,crwn,null,185,19.4,0,1.8,S,Gomel,18
+62,Klimovski dist,4/30/2017,52.200200 ,32.134099 ,crwn,null,555,19.4,0,1.8,S,Gomel,18
+63,Klimovski dist,4/30/2017,52.189899 ,32.127199 ,crwn,null,555,19.4,0,1.8,S,Gomel,18
+64,Klincovski dist,7/31/2017,52.639500 ,32.323400 ,crwn,null,185,19.5,0,2.9,W,Gomel,17
+65,Klincovski dist,7/31/2017,52.633600 ,32.325399 ,crwn,null,185,19.5,0,2.9,W,Gomel,17
+66,Starodubski dist,8/17/2017,52.688870 ,32.554550 ,srf,612,185,21,0,1.6,SE,Gomel,45
+67,Novosibkoski dist ,4/14/2018,52.601999 ,31.717000 ,sfr,null,555,7.6,0,1.8,SE,Gomel,35
+68,Klimovski dist,4/15/2018,52.137999 ,31.887999 ,crwn,null,555,9.9,0,1.6,SW,Gomel,30
+69,Pogarski dist,4/15/2018,52.429899 ,32.997800 ,srf,null,185,9.9,0,1.6,SW,Gomel,30
+70,Novosibkovski dist,5/10/2018,52.570499 ,32.133701 ,sfr,null,555,13,0,3,NE,Gomel,17
+71,Krasnogorski dist,5/11/2018,52.820800 ,31.604299 ,crf,null,555,12.3,0,2.4,N,Gomel,54
+72,Klincovski dist,5/11/2018,52.806701 ,32.223998 ,crwn,null,555,12.3,0,2.4,N,Gomel,54
+73,Starodubski dist,5/11/2018,52.558997 ,32.782398 ,srf,null,185,12.3,0,2.4,N,Gomel,54
+74,Klincovski dist,5/23/2018,52.802589,32.223701,srf,null,555,17.5,0,1.3,NE,Gomel,23
+75,Klincovski dist,6/1/2018,52.806758,32.223849,srf,null,555,10.6,0,2.1,NW,Gomel,34
+76,Novosibkov,6/2/2018,52.512123,31.965545,crwn,null,555,15.4,0,1.4,W,Gomel,27
+77,Klincovski dist,6/4/2018,52.808201,32.222125,crwn,null,555,20.7,0,2.3,W,Gomel,38
+78,Klincovski dist,6/4/2018,52.746323,32.17084,srf,null,555,20.7,0,2.3,W,Gomel,38
+79,Selec,6/5/2018,52.955276,31.688383,grnd,null,185,15.5,0,5,NW,Gomel,29
+80,Unechski dist,6/5/2018,52.821983,32.647697,crwn,null,185,15.5,0,5,NW,Gomel,29
+81,Klincovski dist,6/8/2018,52.750197,32.447143,cwrn,null,555,16.5,0,2.4,W,Gomel,20
+82,Klincovski dist,6/13/2018,52.807383,32.222622,crwn,null,555,18.5,0,1.8,NW,Gomel,23
+83,Getmakskay Buda,6/16/2018,52.288444,32.100483,srf,null,185,16.5,0.3,3,E,Gomel,30
+84,Klincovski dist,7/6/2018,52.765544,32.039332,srf,null,555,19.9,4,1.4,W,Gomel,28
+85,Manyki,7/10/2018,52.578013,32.070693,srf,null,555,19.4,0,1.6,NW,Gomel,20
+86,Starodubski dist,7/20/2018,52.633591,32.521544,crwn,null,185,21.6,0.8,1.1,NE,Gomel,24
+87,Klincovski dist,7/23/2018,52.762878,32.064139,srf,null,555,19.7,4.3,2.5,E,Gomel,22
+88,Klincovski dist,8/5/2018,52.666035,31.982956,crwn,null,555,22.5,0,1.5,NW,Gomel,30
+89,Klincovski dist,8/10/2018,52.651344 ,32.097370 ,crwn,null,555,18.7,0,0.9,SW,Gomel,30
+90,Starodubski dist,8/11/2018,52.677799 ,32.562598 ,crwn,null,185,19.4,0,1,S,Gomel,24
+91,Klincovski dist,8/18/2018,52.624633 ,32.351714 ,crwn,null,555,19.3,0,1.5,SE,Gomel,22
+92,Klincovski dist,8/18/2018,52.394089 ,32.135200 ,crwn,null,555,19.3,0,1.5,SE,Gomel,22
+93,Unechski dist,8/19/2018,52.799446 ,32.525116 ,crwn,null,185,19.6,0,1,SW,Gomel,20
+94,Klincovski dist,8/25/2018,52.702995 ,31.986353 ,crwn,null,555,18.7,0,1.3,S,Gomel,36
+95,Unechski dist,8/31/2018,52.671683 ,32.640690 ,srf,null,185,17.7,0,1.8,NW,Gomel,19
+96,Goredeevski dist,9/4/2018,52.882663 ,31.933447 ,srf,null,555,21.9,0,2.3,E,Gomel,84
+97,Krasnogorski dist,9/9/2018,52.801475 ,31.605349 ,srf,null,555,17.7,0,1.6,NE,Gomel,83
+98,Zlinkovski dist,10/8/2018,52.418723 ,31.977739 ,crwn,null,555,9.2,2,1.9,NE,Gomel,24
+99,Klincovski dist,11/6/2018,52.920615 ,32.105349 ,crwn,null,555,2.1,0,1.1,E,Gomel,58
+100,Novosibkovski dist,11/16/2018,52.478236 ,31.918839 ,crwn,null,555,-3.6,0,1.6,NE,Gomel,34
+101,Lotaki,11/17/2018,53.130589 ,31.577245 ,crwn,null,555,-3,0,1.1,NW,Gomel,49
+1,Krasnogorsi dist,3/28/2019,53.179395 ,31.580200 ,crwn,615,555,5.1,0,5,NW,Gomel,
+2,Zlinkovski dist,3/28/2019,52.440567 ,31.652116 ,crwn,null,555,5.1,0,5,NW,Gomel,
+3,Krasnogorsi dist,3/29/2019,53.177646 ,31.559600 ,crwn,199.3,555,6.1,0,3,W,Gomel,
+4,Krasnogorsi dist,3/30/2019,52.990403 ,31.631012 ,crwn,174.9,555,13.2,0,5,W,Gomel,
+5,Krasnogorsi dist,3/30/2019,53.052902 ,31.450314 ,crwn,null,555,13.2,0,5,W,Gomel,
+6,Krasnogorsi dist,3/30/2019,52.918999 ,31.696999 ,srf,null,555,13.2,0,5,W,Gomel,
+7,Krasnogorsi dist,3/31/2019,53.189167 ,31.554107 ,srf,114.9,555,17.2,0,3,W,Gomel,
+8,Gordeevski dist,3/31/2019,52.932499 ,31.787567 ,crwn,199.3,555,17.2,0,3,W,Gomel,
+9,Klincovski dist,3/31/2019,52.710091 ,31.841125 ,crwn,577,555,17.2,0,3,W,Gomel,
+10,Krasnogorsi dist,3/31/2019,53.046871 ,31.394520 ,crwn,null,555,17.2,0,3,W,Gomel,
+11,Gordeevski dist,3/31/2019,52.777267 ,31.730100 ,srf,null,555,17.2,0,3,W,Gomel,
+12,Klincovski dist,3/31/2019,52.746707 ,32.090603 ,crwn,null,555,17.2,0,3,W,Gomel,
+13,Klimovski dist,3/31/2019,52.112525 ,32.172832 ,srf,null,555,17.2,0,3,W,Gomel,
+14,Novosibkovski dist,4/1/2019,52.605594,31.735357,srf,null,555,7.8,0,6,NW,Gomel,
+15,Krasnogorsi dist,4/1/2019,53.102682,31.443557,srf,120.7,555,7.8,0,6,NW,Gomel,
+16,Krasnogorsi dist,4/1/2019,53.109505,31.461006,srf,null,555,7.8,0,6,NW,Gomel,
+17,Krasnogorsi dist,4/1/2019,53.209733,31.66809,srf,904,555,7.8,0,6,NW,Gomel,
+18,Krasnogorsi dist,4/1/2019,53.197643,31.695834,srf,null,555,7.8,0,6,NW,Gomel,
+19,Krasnogorsi dist,4/1/2019,53.203094,31.674516,crwn,null,555,7.8,0,6,NW,Gomel,
+20,Gordeevski dist,4/1/2019,52.985443,31.763534,crwn,637,555,7.8,0,6,NW,Gomel,
+21,Gordeevski dist,4/1/2019,52.919253,31.77246,srf,637,555,7.8,0,6,NW,Gomel,
+22,Krasnogorsi dist,4/1/2019,52.966937,31.661789,grnd,null,555,7.8,0,6,NW,Gomel,
+23,Krasnogorsi dist,4/1/2019,52.966937,31.661789,grnd,null,555,7.8,0,6,NW,Gomel,
+24,Gordeevski dist,4/1/2019,53.018837,31.836601,srf,null,555,7.8,0,6,NW,Gomel,
+25,Gordeevski dist,4/1/2019,52.995842,31.777561,srf,null,555,7.8,0,6,NW,Gomel,
+26,Gordeevski dist,4/1/2019,52.996398,31.775232,crwn,null,555,7.8,0,6,NW,Gomel,
+27,Gordeevski dist,4/1/2019,52.976348,31.946182,crwn,162.6,555,7.8,0,6,NW,Gomel,
+28,Gordeevski dist,4/1/2019,52.937836,32.086001,crwn,null,555,7.8,0,6,NW,Gomel,
+29,Gordeevski dist,4/1/2019,52.9742,32.012066,crwn,null,555,7.8,0,6,NW,Gomel,
+30,Gordeevski dist,4/1/2019,52.974383,32.016983,crwn,null,555,7.8,0,6,NW,Gomel,
+31,Klincovski dist,4/1/2019,52.74649,31.998492,crwn,null,555,7.8,0,6,NW,Gomel,
+32,Klincovski dist,4/1/2019,52.746693,32.003307,crwn,null,555,7.8,0,6,NW,Gomel,
+33,Klincovski dist,4/1/2019,52.778309,32.253658,crwn,null,555,7.8,0,6,NW,Gomel,
+34,Klimovski dist,4/1/2019,52.467865,32.191794,srf,null,555,7.8,0,6,NW,Gomel,
+35,Gordeevski dist,4/2/2019,53.104,31.809999,srf,null,555,7.6,0,10,NW,Gomel,
+36,Zaborie,4/2/2019,53.102416,31.709543,crwn,null,555,7.6,0,10,NW,Gomel,
+37,Gordeevski dist,4/2/2019,53.056751,31.890006,crwn,null,555,7.6,0,10,NW,Gomel,
+38,Krasnogorsi dist,4/2/2019,52.961875,31.641998,srf,155.8,555,7.6,0,10,NW,Gomel,
+39,Zlinkovski dist,4/2/2019,52.481525,31.730575,crwn,476,555,7.6,0,10,NW,Gomel,
+40,Klimovski dist,4/2/2019,52.330456,32.221187,crwn,null,555,7.6,0,10,NW,Gomel,
+41,Surajski dist,4/2/2019,52.981396,32.370529,crwn,null,555,7.6,0,10,NW,Gomel,
+42,Surajski dist,4/2/2019,53.052257,32.157616,crwn,null,555,7.6,0,10,NW,Gomel,
+43,Surajski dist,4/2/2019,53.063362,32.304379,crwn,null,555,7.6,0,10,NW,Gomel,
+44,Krasnogorsi dist,4/3/2019,53.176207,31.432678,crwn,null,555,9.5,0,3,NW,Gomel,
+45,Krasnogorsi dist,4/3/2019,53.185256,31.713756,srf,null,555,9.5,0,3,NW,Gomel,
+46,Gordeevski dist,4/3/2019,52.922979,31.749115,crwn,115.1,555,9.5,0,3,NW,Gomel,
+47,Novosibkovski dist,4/3/2019,52.67337,31.770661,srf,null,555,9.5,0,3,NW,Gomel,
+48,Zlinkovski dist,4/3/2019,52.366508,32.004744,crwn,null,555,9.5,0,3,NW,Gomel,
+49,Zlinkovski dist,4/3/2019,52.264858,31.728022,srf,null,555,9.5,0,3,NW,Gomel,
+50,Gordeevski dist,4/4/2019,52.939948,31.734008,crwn,299.2,555,10.2,0,3,NW,Gomel,
+51,Krasnogorsi dist,4/4/2019,52.775428,31.665668,srf,null,555,10.2,0,3,NW,Gomel,
+52,Novosibkovski dist,4/4/2019,52.685481,31.575541,crwn,null,555,10.2,0,3,NW,Gomel,
+53,Zlinkovski dist,4/4/2019,52.271155,31.73642,crwn,null,555,10.2,0,3,NW,Gomel,
+54,Klimovski dist,4/4/2019,52.268307,31.952244,srf,null,555,10.2,0,3,NW,Gomel,
+55,Klimovski dist,4/4/2019,52.24572,31.99975,crwn,null,555,10.2,0,3,NW,Gomel,
+56,Shkredow,4/4/2019,52.677413,32.359817,crwn,null,185,10.2,0,3,NW,Gomel,
+57,Krasnogorsi dist,4/5/2019,53.178469,31.637878,crwn,155.8,555,11.8,0,1,W,Gomel,
+58,Gordeevski dist,4/5/2019,52.874103,31.703796,srf,109.6,555,11.8,0,1,W,Gomel,
+59,Perelazi,4/5/2019,53.046417,31.491523,crwn,null,185,11.8,0,1,W,Gomel,
+60,Krasnogorsi dist,4/5/2019,53.003707,31.493055,crwn,null,555,11.8,0,1,W,Gomel,
+61,Gordeevski dist,4/5/2019,53.031753,31.793158,crwn,null,555,11.8,0,1,W,Gomel,
+62,Gordeevski dist,4/5/2019,53.019,31.806999,crwn,null,555,11.8,0,1,W,Gomel,
+63,Klimovski dist,4/5/2019,52.398983,32.324851,srf,null,555,11.8,0,1,W,Gomel,
+64,Surajski dist,4/5/2019,53.029579,32.310677,crwn,null,555,11.8,0,1,W,Gomel,
+65,Surajski dist,4/5/2019,53.09691,32.474212,srf,199.3,555,11.8,0,1,W,Gomel,
+66,Klincovski dist,4/6/2019,52.712517,31.780975 ,crwn,null,555,6.5,0,2,E,Gomel,
+67,Novosibkovski dist,4/6/2019,52.685272,31.674058 ,crwn,null,555,6.5,0,2,E,Gomel,
+68,Zlinkovski dist,4/6/2019,52.404263,31.838498 ,crwn,null,555,6.5,0,2,E,Gomel,
+69,Klimovski dist,4/6/2019,52.329120,32.114901 ,crwn,null,555,6.5,0,2,E,Gomel,
+70,Unechski dist,4/7/2019,52.781999 ,32.503000 ,crwn,null,185,13,0,3,SE,Gomel,
+71,Surajski dist,4/7/2019,53.075465,32.252426 ,crwn,746,555,13,0,3,SE,Gomel,
+72,Gordeevski dist,4/8/2019,52.875000,31.938999 ,crwn,null,555,16.5,0,4,SE,Gomel,
+73,Klimovski dist,4/8/2019,52.118751 ,31.961767 ,crwn,null,555,16.5,0,4,SE,Gomel,
+74,Klimovski dist,4/8/2019,52.351756 ,32.449355 ,crwn,null,555,16.5,0,4,SE,Gomel,
+75,Krasnogorsi dist,4/11/2019,53.143899 ,31.765300 ,crwn,null,555,14.8,0,3,NE,Gomel,
+76,Krasnogorsi dist,4/13/2019,53.115460 ,31.753921 ,crwn,127.7,555,5.1,0,4,NE,Gomel,
+77,Zlinkovski dist,4/15/2019,52.425896 ,31.621861 ,crwn,null,555,3.5,0,10,NE,Gomel,
+78,Krasnogorsi dist,4/16/2019,53.130706 ,31.753234 ,crwn,199.3,555,14.8,0,10,NE,Gomel,
+79,Surajski dist,4/16/2019,53.093199,32.312164 ,crwn,199.3,555,14.8,0,10,NE,Gomel,
+80,Surajski dist,4/16/2019,53.102096,32.328197,crwn,null,555,14.8,0,10,NE,Gomel,
+81,Krasnogorsi dist,4/17/2019,53.018112 ,31.388406,srf,null,555,11.8,0,10,E,Gomel,
+82,Krasnogorsi dist,4/17/2019,53.008708 ,31.391107,crwn,null,555,11.8,0,10,E,Gomel,
+83,Krasnogorsi dist,4/17/2019,52.868342 ,31.628803,crwn,null,555,11.8,0,10,E,Gomel,
+84,Novosibkovski dist,4/17/2019,52.618474 ,31.565780,srf,455,555,11.8,0,10,E,Gomel,
+85,Gordeevski dist,4/17/2019,52.997040 ,31.975903 ,crwn,null,555,11.8,0,10,E,Gomel,
+86,Gordeevski dist,4/17/2019,53.002521 ,31.985243 ,crwn,null,555,11.8,0,10,E,Gomel,
+87,Gordeevski dist,4/17/2019,53.004196 ,32.113503 ,crwn,null,555,11.8,0,10,E,Gomel,
+88,Gordeevski dist,4/17/2019,53.012585 ,32.112960 ,crwn,null,555,11.8,0,10,E,Gomel,
+89,Surajski dist,4/17/2019,53.084282 ,32.193325 ,crwn,null,555,11.8,0,10,E,Gomel,
+90,Surajski dist,4/17/2019,53.072577 ,32.291564,crwn,980,555,11.8,0,10,E,Gomel,
+91,Zlinkovski dist,4/18/2019,52.194549 ,31.749178 ,srf,null,555,13.4,0,3,NW,Gomel,
+92,Krasnogorsi dist,4/19/2019,53.149990 ,31.717285 ,crwn,null,555,12.1,0,3,NE,Gomel,
+93,Baturovka,4/19/2019,53.055404 ,31.708668 ,srf,null,555,12.1,0,3,NE,Gomel,
+94,Krasnogorsi dist,4/19/2019,53.073437 ,31.472451 ,crwn,null,555,12.1,0,3,NE,Gomel,
+95,Klimovski dist,4/19/2019,52.495289 ,32.472591 ,crwn,null,555,12.1,0,3,NE,Gomel,
+96,Klimovski dist,4/19/2019,52.497581 ,32.445568 ,crwn,null,555,12.1,0,3,NE,Gomel,
+97,Surajski dist,4/21/2019,53.076576 ,32.217006 ,crwn,null,555,16,0,2,E,Gomel,
+98,Gordeevski dist,4/21/2019,52.871395 ,31.803577 ,srf,null,555,16,0,2,E,Gomel,
+99,Gordeevski dist,4/21/2019,52.897572 ,31.872968 ,crwn,null,555,16,0,2,E,Gomel,
+100,Gordeevski dist,4/21/2019,52.880196 ,31.882585 ,crwn,null,555,16,0,2,E,Gomel,
+101,Gordeevski dist,4/21/2019,52.760554 ,31.696893 ,crwn,null,555,16,0,2,E,Gomel,
+102,Krasnogorsi dist,4/22/2019,53.130310,31.410455,crwn,null,555,18.1,0,2,N,Gomel,
+103,Krasnogorsi dist,4/22/2019,52.921352,31.646179,crwn,null,555,18.1,0,2,N,Gomel,
+104,Gordeevski dist,4/22/2019,52.853376,31.839752,crwn,399,555,18.1,0,2,N,Gomel,
+105,Gordeevski dist,4/22/2019,52.883219,31.897430,crwn,199.3,555,18.1,0,2,N,Gomel,
+106,Sosnovi bor,4/22/2019,52.334595,31.770075,crwn,null,555,18.1,0,2,N,Gomel,
+107,Zlinkovski dist,4/22/2019,52.193668,31.757282,crwn,null,555,18.1,0,2,N,Gomel,
+108,Krasnogorsi dist,4/23/2019,53.119559 ,31.739261,crwn,null,555,20.1,0,2,E,Gomel,
+109,Bukovec,4/23/2019,53.130733 ,31.773171,crwn,null,1480,20.1,0,2,E,Gomel,
+110,Gordeevski dist,4/23/2019,53.094024 ,32.012786 ,crwn,540,555,20.1,0,2,E,Gomel,
+111,Gordeevski dist,4/23/2019,53.082477 ,32.026519 ,crwn,395,555,20.1,0,2,E,Gomel,
+112,Gordeevski dist,4/23/2019,52.862497 ,31.802673 ,crwn,562,555,20.1,0,2,E,Gomel,
+113,Gordeevski dist,4/23/2019,52.864570 ,31.885758,crwn,743,555,20.1,0,2,E,Gomel,
+114,Gordeevski dist,4/23/2019,52.882850 ,31.898445 ,crwn,null,555,20.1,0,2,E,Gomel,
+115,Klimovski dist,4/23/2019,52.496475 ,32.404612 ,srf,null,555,20.1,0,2,E,Gomel,
+116,Gordeevski dist,4/24/2019,53.008999 ,32.141877,crwn,516,555,21.6,0,2,E,Gomel,
+117,Gordeevski dist,4/24/2019,52.855864 ,31.801300 ,crwn,164.6,555,21.6,0,2,E,Gomel,
+118,Novosibkovski dist,4/24/2019,52.500056 ,31.697923 ,crwn,null,555,21.6,0,2,E,Gomel,
+119,Krasnogorsi dist,4/25/2019,52.783400 ,31.668200 ,crwn,null,555,23.7,0,2,W,Gomel,
+120,Gordeevski dist,4/25/2019,52.848400 ,31.878205,crwn,146.5,555,23.7,0,2,W,Gomel,
+121,Gordeevski dist,4/25/2019,52.854205 ,31.970215,srf,133.2,555,23.7,0,2,W,Gomel,
+122,Zlinkovski dist,4/25/2019,52.496995 ,31.701049 ,crwn,199.3,555,23.7,0,2,W,Gomel,
+123,Novosibkovski dist,4/25/2019,52.502570 ,31.927074 ,crwn,null,555,23.7,0,2,W,Gomel,
+124,Krasnogorsi dist,4/26/2019,53.192799 ,31.478799 ,crwn,null,555,23.5,0,1,NW,Gomel,
+125,Klincovski dist,4/26/2019,52.929602 ,32.209167 ,crwn,254.1,555,23.5,0,1,NW,Gomel,
+126,Klincovski dist,4/26/2019,52.840106 ,31.974334 ,crwn,799,555,23.5,0,1,NW,Gomel,
+127,Gordeevski dist,4/26/2019,52.785586 ,31.745479 ,srf,null,555,23.5,0,1,NW,Gomel,
+128,Klincovski dist,4/26/2019,52.756576 ,31.806001,crwn,null,555,23.5,0,1,NW,Gomel,
+129,Novosibkovski dist,4/26/2019,52.503683 ,31.690063 ,crwn,706,555,23.5,0,1,NW,Gomel,
+130,Klimovski dist,4/26/2019,52.182964 ,31.787622 ,crwn,null,555,23.5,0,1,NW,Gomel,
+131,Novosibkovski dist,4/27/2019,52.492927 ,31.709301 ,crwn,null,555,23.3,0,2,SE,Gomel,
+132,Krasnogorsi dist,4/28/2019,53.192710,31.483450,crwn,null,555,20,0,5,NE,Gomel,
+133,Novosibkovski dist,4/30/2019,52.491691 ,31.673565 ,crwn,null,555,14.6,0,3,SE,Gomel,
+134,Krasnogorsi dist,4/30/2019,53.183818 ,31.499176 ,crwn,199,555,14.6,0,3,SE,Gomel,
+135,Surajski dist,4/30/2019,53.045844 ,32.308890 ,crwn,null,555,14.6,0,3,SE,Gomel,
+136,Krasnogorsi dist,6/18/2019,53.097892,31.619255,srf,null,555,19,0,2,N,Gomel,
+137,Starodubski dist,8/24/2019,52.675549 ,32.663726 ,crwn,313,185,23.4,0,2,NW,Gomel,
+138,Deniskovishi,9/8/2019,52.312622 ,31.693628 ,crwn,null,1480,23.9,0,1,E,Gomel,
+139,Klimovski dist,9/13/2019,52.225742 ,31.987981 ,crwn,null,555,24.3,0,3,W,Gomel,
